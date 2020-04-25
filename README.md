@@ -15,6 +15,7 @@ These are tutorials - you can find the accompanying step-by-step guide on Medium
 
 <br>
 Prerequisites:
+
 * [Keras](https://keras.io/)
 * [Keras-RL](https://github.com/keras-rl/keras-rl)
 * [Tensorflow](https://www.tensorflow.org/)
